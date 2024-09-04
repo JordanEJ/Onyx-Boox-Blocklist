@@ -1,0 +1,17 @@
+# --------------------------------------------------
+# Onyx Boox Blocklist by JordanJ
+#
+# If you find any more please let me know at https://github.com/JordanEJ/Onyx-Boox-Blocklist/issues
+# --------------------------------------------------
+
+0.0.0.0 cb.boox.com
+0.0.0.0 eur.boox.com
+0.0.0.0 en-data.boox.com
+0.0.0.0 eu-ntp.boox.com
+0.0.0.0 index1.boox.com
+0.0.0.0 index2.boox.com
+0.0.0.0 index3.boox.com
+0.0.0.0 index4.boox.com
+0.0.0.0 onyx-avatar-us.oss-us-west-1.aliyuncs.com
+0.0.0.0 onyx.edu.oss-cn-shenzhen.aliyuncs.com
+0.0.0.0 push.boox.com
