@@ -6,4 +6,4 @@
 This is a blocklist to attempt to block all telemetry sent from boox devices. Tested on pihole and a Boox Note Air2.
 
 ## Instructions
-Add `https://raw.githubusercontent.com/JordanEJ/Onyx-Boox-Blocklist/main/onyxboox.txt` to your PiHole blocklists
+Add `https://raw.githubusercontent.com/JordanEJ/Onyx-Boox-Blocklist/main/hosts` to your PiHole blocklists
