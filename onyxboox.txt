@@ -18,3 +18,9 @@ index5.boox.com
 onyx-avatar-us.oss-us-west-1.aliyuncs.com
 onyx.edu.oss-cn-shenzhen.aliyuncs.com
 push.boox.com
+
+# --------------------------------------------------
+# Onyx Boox Blocklist by JordanJ
+#
+# If you find any more please let me know at https://github.com/JordanEJ/Onyx-Boox-Blocklist/issues
+# --------------------------------------------------
