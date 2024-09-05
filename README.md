@@ -7,3 +7,7 @@ This is a blocklist to attempt to block all telemetry sent from boox devices. Te
 
 ## Instructions
 Add `https://raw.githubusercontent.com/JordanEJ/Onyx-Boox-Blocklist/main/hosts` to your PiHole blocklists
+
+## Recomended regex
+`^boox.com$`
+`^onyx-international.cn$`
