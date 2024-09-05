@@ -4,15 +4,15 @@
 # If you find any more please let me know at https://github.com/JordanEJ/Onyx-Boox-Blocklist/issues
 # --------------------------------------------------
 
-0.0.0.0 cb.boox.com
-0.0.0.0 eur.boox.com
-0.0.0.0 en-data.boox.com
-0.0.0.0 en-data.onyx-international.cn
-0.0.0.0 eu-ntp.boox.com
-0.0.0.0 index1.boox.com
-0.0.0.0 index2.boox.com
-0.0.0.0 index3.boox.com
-0.0.0.0 index4.boox.com
-0.0.0.0 onyx-avatar-us.oss-us-west-1.aliyuncs.com
-0.0.0.0 onyx.edu.oss-cn-shenzhen.aliyuncs.com
-0.0.0.0 push.boox.com
+cb.boox.com
+eur.boox.com
+en-data.boox.com
+en-data.onyx-international.cn
+eu-ntp.boox.com
+index1.boox.com
+index2.boox.com
+index3.boox.com
+index4.boox.com
+onyx-avatar-us.oss-us-west-1.aliyuncs.com
+onyx.edu.oss-cn-shenzhen.aliyuncs.com
+push.boox.com
