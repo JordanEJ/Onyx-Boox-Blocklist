@@ -9,6 +9,7 @@ eur.boox.com
 en-data.boox.com
 en-data.onyx-international.cn
 en-ntp.boox.com
+en-rom.boox.com
 eu-ntp.boox.com
 index1.boox.com
 index2.boox.com
@@ -17,7 +18,9 @@ index4.boox.com
 index5.boox.com
 onyx-avatar-us.oss-us-west-1.aliyuncs.com
 onyx.edu.oss-cn-shenzhen.aliyuncs.com
+onyx-international.cn
 push.boox.com
+send2boox.com
 
 # --------------------------------------------------
 # Onyx Boox Blocklist by JordanJ
