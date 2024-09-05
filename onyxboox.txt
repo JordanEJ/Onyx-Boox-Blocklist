@@ -7,6 +7,7 @@
 0.0.0.0 cb.boox.com
 0.0.0.0 eur.boox.com
 0.0.0.0 en-data.boox.com
+0.0.0.0 en-data.onyx-international.cn
 0.0.0.0 eu-ntp.boox.com
 0.0.0.0 index1.boox.com
 0.0.0.0 index2.boox.com
