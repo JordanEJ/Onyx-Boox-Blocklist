@@ -6,12 +6,18 @@
 
 boox.com
 cb.boox.com
+cb.send2boox.com
+cn-data.onyx-international.cn
+data.boox.com
+dev.send2boox.com
+en-lon.boox.com
 eur.boox.com
 en-data.boox.com
 en-data.onyx-international.cn
 en-ntp.boox.com
 en-rom.boox.com
 eu-ntp.boox.com
+eurcb.boox.com
 index.boox.com
 index.send2boox.com
 index1.boox.com
@@ -25,8 +31,12 @@ index4.send2boox.com
 index5.boox.com
 index5.send2boox.com
 info.izatcloud.net
+log.boox.com
 ntp.onyx-international.cn
+ntp.send2boox.com
+ntp1.boox.com
 ntp1.onyx-international.cn
+ntp2.boox.com
 ntp2.onyx-international.cn
 ntp3.onyx-international.cn
 ntp4.onyx-international.cn
@@ -36,6 +46,7 @@ onyx.edu.oss-cn-shenzhen.aliyuncs.com
 onyx-international.cn
 push.boox.com
 send2boox.com
+test.boox.com
 
 # --------------------------------------------------
 # Onyx Boox Blocklist by JordanJ
